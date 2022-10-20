@@ -3,3 +3,6 @@
 ################################################################################
 
 /testapp/Testapp/.vs
+/testapp/Testapp/Testapp/obj
+*.user
+/testapp/Testapp/Testapp/bin/Debug/net5.0-windows
